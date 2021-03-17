@@ -213,7 +213,7 @@ vertical: body pane on the botton</t>
 &lt;h1&gt;想法&lt;/h1&gt;
 &lt;p&gt;題目：纜車&lt;/p&gt;
 &lt;p&gt;理想：這是最開始的想法 想讓纜車在站台之間做運動達到循環效果&lt;p&gt;
-&lt;p&gt;&lt;img alt="" height="276" src="/images/1000.png" width="545"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/40823142/stage1-ag17/main/images/1000.png" alt="" width="545" height="276"&gt;&lt;/p&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20210317233303.1">&lt;section&gt;
 &lt;p&gt;&lt;p&gt;
@@ -222,7 +222,7 @@ vertical: body pane on the botton</t>
 &lt;p&gt;&lt;strong&gt;第一版本&lt;/strong&gt;&lt;p&gt;
 &lt;p&gt;&lt;strong&gt;圖檔是由Inventor2019繪出&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;皮帶輪：&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" height="244" src="/images/輪子.png" width="514"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/40823142/stage1-ag17/main/images/%E8%BC%AA%E5%AD%90.png" alt="" width="545" height="276"&gt;&lt;/p&gt;
 &lt;/section&gt;
 </t>
 <t tx="leo.20210317233303.3">&lt;section&gt;
